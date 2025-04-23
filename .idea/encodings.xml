@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_digg-reply_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps1_step0.0001_batch10000_clip0.1_layerNum2_1741188497.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_reality-call_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps1_step0.0001_batch2000_clip0.1_layerNum2_1741182301.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_reality-call_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps2_step0.0001_batch2000_clip0.1_layerNum2_1741272107.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_reality-call_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps6_step0.0001_batch2000_clip0.1_layerNum2_1741182911.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_sub_wiki-talk0.05_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps1_step0.0001_batch10000_clip0.1_layerNum2_1741251845.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_sub_wiki-talk0.05_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps4_step0.0001_batch10000_clip0.1_layerNum2_1741337930.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_sub_wiki-talk0.05_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps5_step0.0001_batch10000_clip0.1_layerNum2_1741345482.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/PrivateWUGR/PrivWUGR(NoSN)_varyEps_lp_w_sub_wiki-talk0.05_WeightTrue_train0.8_test0.2_dim128_nepoch300_eps6_step0.0001_batch10000_clip0.1_layerNum2_1741268220.txt" charset="GBK" />
+  </component>
+</project>
