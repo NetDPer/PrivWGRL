@@ -111,6 +111,7 @@ class trainModel:
                     if args.RDP:
                         sampling_prob = args.batch_size / self.graph.number_of_edges()
                         steps = each_epoch + 1
+                        # different rdp computation is available in rdp_accountant
                         rdp = compute_rdp(q=sampling_prob, noise_multiplier=args.sigma, steps=steps, orders=orders)
                         _eps, _delta, _ = get_privacy_spent(orders, rdp, target_eps=args.epsilon)
                         if _delta > args.delta:
