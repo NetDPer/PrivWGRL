@@ -111,7 +111,7 @@ class trainModel:
                 for each_epoch in range(args.n_epoch):
                     # print(indep_run_time, each_epoch)
                     w_i, h_j, weight_values, PMI_values = [], [], [], []
-                    selected_edges_idx = np.random.choice(self.graph.number_of_edges(), size=args.batch_size, replace=False)  # 随机选择 128 条索引)
+                    selected_edges_idx = np.random.choice(self.graph.number_of_edges(), size=args.batch_size, replace=False)  # random selection
                     # get the list of edges
                     all_edges = list(self.graph.edges())
                     selected_edges = [all_edges[i] for i in selected_edges_idx]
